@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1560364855 source:g:\code blocks files\decrypt\main.cpp
+	<iostream>
+	<gmp.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<unistd.h>
+	<malloc.h>
+	<cstring>
+
+1035175203 h:\4-1 documents\security lab\gmp demo\gmp-static-mingw-4.1\gmp\include\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
